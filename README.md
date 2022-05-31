@@ -6,3 +6,9 @@ Athough there is a built-in function in pybullet for IK, still we can implement 
 ### Problem scenario
 The task is to pin a 2R planar arm on the boundary of a rotating disc. While the disc is rotating, the end effector of the arm should be at a fixed point.
 I have attached the [URDF file](fkik.urdf) and the solution [fkik.py](fkik.py) file.
+
+Following is the running display of the above mentioned task:
+<br>
+<p align=center>
+  <img width=500 src=task.gif>
+  </p>
